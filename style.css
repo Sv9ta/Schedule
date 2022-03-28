@@ -38,6 +38,11 @@
      margin: 10px;
 }
 
+.btnnav{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
 .tbl-main-btn{
     margin: 15px 45px;
     width: 50px; 
@@ -105,7 +110,7 @@
 }
 
 .tbl-calendar tr:nth-child(2) {
-    //background-color: #DE9B86;
+    /* //background-color: #DE9B86; */
     text-align: center;
     color: #3f3f3f;
     height: 28px;
